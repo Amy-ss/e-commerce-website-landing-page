@@ -1,3 +1,3 @@
-# WebnU-Task_1-e-commerce-website-
+e-commerce-website-landing-page
 
-Review project here : https://amy-ss.github.io/WebnU-Task_1-e-commerce-website-/
+https://amy-ss.github.io/e-commerce-website-landing-page/
